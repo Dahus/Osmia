@@ -1,0 +1,7 @@
+﻿Build/
+Out/
+Source/build/
+Source/Debug/
+Source/Release/
+Source/x64/
+Source/.vs/
