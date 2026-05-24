@@ -84,7 +84,6 @@ Game logic is defined in `osmia_sql.lua`. Call format: `CHILD:NNN:params`.
 - `cmake -B build && cmake --build build`
 
 > Linux build compiles cleanly but has not been tested in production.
-
-
+<br>
 
 *And... thank you for choosing me 🐝*
