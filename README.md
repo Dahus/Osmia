@@ -1,6 +1,6 @@
 ## About
 
-Modern cross-platform core for Arma 2 OA game logic and SQL.
+Modern cross-platform core for Arma 2: Operation Arrowhead game logic and SQL.
 For those who need more than the standard: no recompilation, independent component updates, extended analytics and external system integration.
 
 ## Screenshot
