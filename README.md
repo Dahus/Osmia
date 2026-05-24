@@ -5,7 +5,7 @@ For those who need more than the standard: no recompilation, independent compone
 
 ## Screenshot
 
-*Picture*
+![Architecture](assets/osmia_arch_preview.svg)
 
 ## Installation
 
